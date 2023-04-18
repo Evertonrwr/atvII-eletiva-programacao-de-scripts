@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    color:black;
+    padding:30px
+}
+.col-1{
+    flex:0.5;
+    padding:10px
+}
+.megasena-col-2{
+    flex:1;
+    padding: 0px;
+    margin: 0;
+
+}
+
